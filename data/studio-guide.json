@@ -1,0 +1,19 @@
+[
+    { "id": 1, "name": "1. Arriving at the Studio", "link": "/studio-guide/arriving-at-the-studio" },
+    { "id": 2, "name": "2. Powering Video Systems", "link": "/studio-guide/powering-video-systems" },
+    { "id": 3, "name": "3. Priming the Hyperdeck", "link": "/studio-guide/priming-the-hyperdeck" },
+    { "id": 4, "name": "4. Audio Board", "link": "/studio-guide/audio-board" },
+    { "id": 5, "name": "5. Switching", "link": "/studio-guide/switching" },
+    { "id": 6, "name": "6. Preparing for Media Capture", "link": "/studio-guide/preparing-for-media-capture" },
+    { "id": 7, "name": "7. Operating the Camera Controller", "link": "/studio-guide/operating-the-camera-controller" },
+    { "id": 8, "name": "8. Determining the Starting Shot", "link": "/studio-guide/determining-the-starting-shot" },
+    { "id": 9, "name": "9. Prepping the Set", "link": "/studio-guide/prepping-the-set" },
+    { "id": 10, "name": "10. Understanding the Start Light", "link": "/studio-guide/understanding-the-start-light" },
+    { "id": 11, "name": "11. Prepping the Talent", "link": "/studio-guide/prepping-the-talent" },
+    { "id": 12, "name": "12. Audio Check", "link": "/studio-guide/audio-check" },
+    { "id": 13, "name": "13. Final Pre-Shoot Checklist", "link": "/studio-guide/final-pre-shoot-checklist" },
+    { "id": 14, "name": "14. Starting the Shoot", "link": "/studio-guide/starting-the-shoot" },
+    { "id": 15, "name": "15. Stopping and Restarting Protocol", "link": "/studio-guide/stopping-and-restarting-protocol" },
+    { "id": 16, "name": "16. Closing & Leaving the Space", "link": "/studio-guide/closing-and-leaving-the-space" },
+    { "id": 17, "name": "17. FAQ", "link": "/studio-guide/faq" }
+  ]
