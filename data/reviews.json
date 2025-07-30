@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "body": "Before operating equipment in the studio, familiarize yourself with its functionality. This guide walks you through every step—from audio setup and camera control to final recording—ensuring you’re fully prepared to use the tools effectively and achieve professional results.",
+    "name": "Studio Guide",
+    "company": "Documentation",
+    "avatar": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyYTZkZjQiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWJvb2stb3Blbi1jaGVjayI+PHBhdGggZD0iTTEyIDIxVjciLz48cGF0aCBkPSJtMTYgMTIgMiAyIDQtNCIvPjxwYXRoIGQ9Ik0yMiA2VjRhMSAxIDAgMCAwLTEtMWgtNWE0IDQgMCAwIDAtNCA0IDQgNCAwIDAgMC00LTRIM2ExIDEgMCAwIDAtMSAxdjEzYTEgMSAwIDAgMCAxIDFoNmEzIDMgMCAwIDEgMyAzIDMgMyAwIDAgMSAzLTNoNmExIDEgMCAwIDAgMS0xdi0xLjMiLz48L3N2Zz4=",
+    "link": "/studio-guide"
+  },
+  {
+    "id": 2,
+    "body": "Need assistance organizing and planning before booking the studio? Looking to produce creative and professional media? Explore our resources to streamline your process, enhance your skills, and bring your vision to life with expert guidance and tools.",
+    "name": "Creator Resources",
+    "company": "Documentation",
+    "avatar": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyYTZkZjQiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWxpZ2h0YnVsYiI+PHBhdGggZD0iTTE1IDE0Yy4yLTEgLjctMS43IDEuNS0yLjUgMS0uOSAxLjUtMi4yIDEuNS0zLjVBNiA2IDAgMCAwIDYgOGMwIDEgLjIgMi4yIDEuNSAzLjUuNy43IDEuMyAxLjUgMS41IDIuNSIvPjxwYXRoIGQ9Ik05IDE4aDYiLz48cGF0aCBkPSJNMTAgMjJoNCIvPjwvc3ZnPg==",
+    "link": "/creator-resources"
+  },
+  {
+    "id": 3,
+    "body": "Please contact us with any inquiries or assistance needs. Reach us by email, telephone, or form. Our team is available to address your questions and provide prompt support efficiently.",
+    "name": "Contact",
+    "company": "Details",
+    "avatar": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyYTZkZjQiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXVzZXItcGVuIj48cGF0aCBkPSJNMTEuNSAxNUg3YTQgNCAwIDAgMC00IDR2MiIvPjxwYXRoIGQ9Ik0yMS4zNzggMTYuNjI2YTEgMSAwIDAgMC0zLjAwNC0zLjAwNGwtNC4wMSA0LjAxMmEyIDIgMCAwIDAtLjUwNi44NTRsLS44MzcgMi44N2EuNS41IDAgMCAwIC42Mi42MmwyLjg3LS44MzdhMiAyIDAgMCAwIC44NTQtLjUwNnoiLz48Y2lyY2xlIGN4PSIxMCIgY3k9IjciIHI9IjQiLz48L3N2Zz4=",
+    "link": "/contact"
+  }
+
+]
