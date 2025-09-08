@@ -61,7 +61,7 @@ export default function Page() {
 
       <div className="studio-div">
         <h2 className="text-2xl font-semibold">
-          Start Recording on the Switcher
+          Start Recording on the Main Board (Switcher)
         </h2>
         <VideoPlayer
           videoUrl="https://res.cloudinary.com/dvjcjbbp7/video/upload/v1757366233/start_roland_gybyya.mp4"
