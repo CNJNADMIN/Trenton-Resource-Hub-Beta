@@ -47,12 +47,14 @@ export default function Page() {
 
       <div className="studio-div">
         <h2 className="text-2xl font-semibold">Start Backup Recording</h2>
-
-        <div className="prose-content">
-          <p className="text-muted-foreground ">
-            On the HyperDeck, press the red circle to start recording.
-          </p>
-        </div>
+        <VideoPlayer
+          videoUrl="https://res.cloudinary.com/dvjcjbbp7/image/upload/v1757356512/Placeholder-1920x1080-1_bxvtuw.jpg"
+          muted
+          className="aspect-video rounded-xl shadow"
+        />
+        <p className="text-muted-foreground ">
+          On the HyperDeck, press the red circle to start recording.
+        </p>
       </div>
 
       <hr />
@@ -61,6 +63,11 @@ export default function Page() {
         <h2 className="text-2xl font-semibold">
           Start Recording on the Switcher
         </h2>
+        <VideoPlayer
+          videoUrl="https://res.cloudinary.com/dvjcjbbp7/image/upload/v1757356512/Placeholder-1920x1080-1_bxvtuw.jpg"
+          muted
+          className="aspect-video rounded-xl shadow"
+        />
 
         <div className="prose-content">
           <p className="text-muted-foreground ">
@@ -73,7 +80,11 @@ export default function Page() {
 
       <div className="studio-div">
         <h2 className="text-2xl font-semibold">Press the Start Light Button</h2>
-
+        <VideoPlayer
+          videoUrl="https://res.cloudinary.com/dvjcjbbp7/image/upload/v1757356512/Placeholder-1920x1080-1_bxvtuw.jpg"
+          muted
+          className="aspect-video rounded-xl shadow"
+        />
         <div className="prose-content">
           <p className="text-muted-foreground ">
             Activate the green light to signal the talent to begin.

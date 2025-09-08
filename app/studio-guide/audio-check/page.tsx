@@ -52,13 +52,6 @@ export default function Page() {
       </div>
 
       <hr />
-      <div className="studio-div">
-        <h2 className="text-2xl font-semibold">Signal the Start</h2>
-        <p className="text-muted-foreground ">
-          Ask the first speaker to begin when they see the green light.
-        </p>
-      </div>
-      <hr />
 
       <div className="studio-div">
         <h2 className="text-2xl font-semibold">Monitor the Audio</h2>{" "}
