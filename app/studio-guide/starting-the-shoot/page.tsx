@@ -101,7 +101,10 @@ export default function Page() {
 
         <div className="prose-content">
           <ol className="text-muted-foreground list-decimal pl-4 space-y-2">
-            <li>To stop recording, press the same button</li>
+            <li>
+              To stop recording on the main board, press the same button on the
+              touchscreen.
+            </li>
             <li>DO NOT remove the SD card before stopping the recording.</li>
           </ol>
         </div>
