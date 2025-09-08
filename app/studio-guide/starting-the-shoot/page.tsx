@@ -11,7 +11,7 @@ import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { ChevronRight } from "lucide-react";
 import { ChevronLeft } from "lucide-react";
-
+import Image from "next/image";
 import dynamic from "next/dynamic";
 
 const VideoPlayer = dynamic(() => import("@/components/videos"), {
@@ -48,7 +48,7 @@ export default function Page() {
       <div className="studio-div">
         <h2 className="text-2xl font-semibold">Start Backup Recording</h2>
         <VideoPlayer
-          videoUrl="https://res.cloudinary.com/dvjcjbbp7/image/upload/v1757356512/Placeholder-1920x1080-1_bxvtuw.jpg"
+          videoUrl="https://res.cloudinary.com/dvjcjbbp7/video/upload/v1757366905/backup_ssd_jqkivh.mp4"
           muted
           className="aspect-video rounded-xl shadow"
         />
@@ -64,7 +64,7 @@ export default function Page() {
           Start Recording on the Switcher
         </h2>
         <VideoPlayer
-          videoUrl="https://res.cloudinary.com/dvjcjbbp7/image/upload/v1757356512/Placeholder-1920x1080-1_bxvtuw.jpg"
+          videoUrl="https://res.cloudinary.com/dvjcjbbp7/video/upload/v1757366233/start_roland_gybyya.mp4"
           muted
           className="aspect-video rounded-xl shadow"
         />
@@ -80,9 +80,11 @@ export default function Page() {
 
       <div className="studio-div">
         <h2 className="text-2xl font-semibold">Press the Start Light Button</h2>
-        <VideoPlayer
-          videoUrl="https://res.cloudinary.com/dvjcjbbp7/image/upload/v1757356512/Placeholder-1920x1080-1_bxvtuw.jpg"
-          muted
+        <Image
+          src="https://res.cloudinary.com/dvjcjbbp7/image/upload/v1757365821/start_light_still_drh4bc.jpg"
+          alt="Start Light"
+          width={1920}
+          height={1080}
           className="aspect-video rounded-xl shadow"
         />
         <div className="prose-content">

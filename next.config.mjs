@@ -15,6 +15,10 @@ const nextConfig = {
         protocol: "http", // allow cnjn.org wp hosted media files 
         hostname: "cnjn.org",
       },
+      {
+        protocol: "https",
+        hostname: "res.cloudinary.com",
+      },
     ],
   },
   eslint: {
