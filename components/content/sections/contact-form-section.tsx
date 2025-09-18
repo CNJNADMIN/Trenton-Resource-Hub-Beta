@@ -75,10 +75,9 @@ export default function ContactFormSection() {
   return (
     <section className="p-6 !pb-6 border rounded-lg">
       <header className="pb-8 space-y-2">
-        <h2 className="text-2xl font-semibold">Your Feedback Matters!</h2>
+        <h2 className="text-2xl font-semibold">Get in Touch!</h2>
         <p className="text-lg text-muted-foreground">
-          This form is for general feedback about CNJN's services. We value your
-          input and appreciate your feedback.
+          Got a question or need help? We’ll get back to you within 24 hours.
         </p>
       </header>
       <Card className="bg-muted">
