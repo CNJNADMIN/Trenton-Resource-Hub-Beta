@@ -5,10 +5,9 @@ import { usePathname } from "next/navigation";
 import {
   HomeIcon,
   UserPenIcon,
-  ListChecks,
   BookOpenCheck,
-  FileQuestion,
   Lightbulb,
+  MailCheck,
 } from "lucide-react";
 import {
   Sidebar,
@@ -48,9 +47,15 @@ const navLinks: NavGroup[] = [
         icon: Lightbulb,
       },
       {
+        title: "Feedback",
+        url: "https://docs.google.com/forms/d/e/1FAIpQLScXQBmpgBohFzPc8N6uHX4sYWE_fN6BmyNpqW4HBXTrXZy9ZA/viewform",
+        icon: UserPenIcon,
+        target: "_blank",
+      },
+      {
         title: "Contact",
         url: "/contact",
-        icon: UserPenIcon,
+        icon: MailCheck,
       },
     ],
   },
