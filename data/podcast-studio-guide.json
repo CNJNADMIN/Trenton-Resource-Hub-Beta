@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "1. Arriving at the Studio", "link": "/podcast-studio-guide/arriving-at-the-studio" },
+  { "id": 2, "name": "2. Powering Podcast Systems", "link": "/podcast-studio-guide/powering-podcast-systems" },
+  { "id": 3, "name": "3. Preparing for Media Capture", "link": "/podcast-studio-guide/preparing-for-media-capture" },
+  { "id": 4, "name": "4. Preparing the Mixer", "link": "/podcast-studio-guide/preparing-the-mixer" },
+  { "id": 5, "name": "5. Prepping Podcasters", "link": "/podcast-studio-guide/prepping-podcasters" },
+  { "id": 6, "name": "6. Fader Adjustments", "link": "/podcast-studio-guide/fader-adjustments" },
+  { "id": 7, "name": "7. Final Pre-Shoot Checklist", "link": "/podcast-studio-guide/final-pre-shoot-checklist" },
+  { "id": 8, "name": "8. Starting the Recording", "link": "/podcast-studio-guide/starting-the-recording" },
+  { "id": 9, "name": "9. Stopping and Restarting Protocol", "link": "/podcast-studio-guide/stopping-and-restarting-protocol" },
+  { "id": 10, "name": "10. Ending the Shoot", "link": "/podcast-studio-guide/ending-the-shoot" },
+  { "id": 11, "name": "11. Closing and Leaving the Space", "link": "/podcast-studio-guide/closing-and-leaving-the-space" },
+  { "id": 12, "name": "12. FAQ", "link": "/podcast-studio-guide/faq" }
+]
