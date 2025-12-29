@@ -9,6 +9,14 @@
   },
   {
     "id": 2,
+    "body": "The studio is built for high-quality podcast production, and knowing the fundamentals makes all the difference. This guide walks you through system startup, mic and mixer setup, and recording controls; so you can run your session confidently and leave with strong results.",
+    "name": "Podcast Resources",
+    "company": "Documentation",
+    "avatar": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyQTZERjQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1taWMtaWNvbiBsdWNpZGUtbWljIj48cGF0aCBkPSJNMTIgMTl2MyIvPjxwYXRoIGQ9Ik0xOSAxMHYyYTcgNyAwIDAgMS0xNCAwdi0yIi8+PHJlY3QgeD0iOSIgeT0iMiIgd2lkdGg9IjYiIGhlaWdodD0iMTMiIHJ4PSIzIi8+PC9zdmc+",
+    "link": "/podcast-studio-guide"
+  },
+   {
+    "id": 3,
     "body": "Need assistance organizing and planning before booking the studio? Looking to produce creative and professional media? Explore our resources to streamline your process, enhance your skills, and bring your vision to life with expert guidance and tools.",
     "name": "Creator Resources",
     "company": "Documentation",
@@ -16,7 +24,7 @@
     "link": "/creator-resources"
   },
   {
-    "id": 3,
+    "id": 4,
     "body": "Please contact us with any inquiries or assistance needs. Reach us by email, telephone, or form. Our team is available to address your questions and provide prompt support efficiently.",
     "name": "Contact",
     "company": "Details",
