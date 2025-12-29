@@ -8,6 +8,7 @@ import {
   BookOpenCheck,
   Lightbulb,
   MailCheck,
+  Mic,
 } from "lucide-react";
 import {
   Sidebar,
@@ -40,6 +41,11 @@ const navLinks: NavGroup[] = [
         title: "Studio Guide",
         url: "/studio-guide",
         icon: BookOpenCheck,
+      },
+      {
+        title: "Podcast Guide",
+        url: "/podcast-studio-guide",
+        icon: Mic,
       },
       {
         title: "Creator Resources",
