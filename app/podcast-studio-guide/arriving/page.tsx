@@ -29,8 +29,8 @@ export default function Page() {
           <Breadcrumb>
             <BreadcrumbList>
               <BreadcrumbItem>
-                <BreadcrumbLink href="/studio-guide">
-                  Studio Guide
+                <BreadcrumbLink href="/podcast-studio-guide">
+                  Podcast Studio Guide
                 </BreadcrumbLink>
               </BreadcrumbItem>
               <BreadcrumbSeparator>
@@ -60,46 +60,16 @@ export default function Page() {
         </div>
       </div>
 
-      <hr />
-
-      <div className="studio-div">
-        <h2 className="text-2xl font-semibold">Backdrop Light</h2>
-        <VideoPlayer
-          videoUrl="https://res.cloudinary.com/dvjcjbbp7/video/upload/v1753841075/backdroplight_ntyo2a.mp4"
-          muted
-          className="aspect-video rounded-xl shadow"
-        />
-
-        <p className="text-muted-foreground">
-          Find the light switch near the entrance and turn it on.
-        </p>
-      </div>
-
-      <hr />
-
-      <div className="studio-div">
-        <h2 className="text-2xl font-semibold">Settling In Your Guests</h2>
-
-        <div className="prose-content">
-          <ol className="text-muted-foreground list-decimal pl-4 space-y-2">
-            <li>Let them know the setup will take 15-30 minutes.</li>
-            <li>
-              Tell them they can put their bags and coats in the control room.
-            </li>
-            <li>They can wait in the control room or on set.</li>
-          </ol>
-        </div>
-      </div>
       <div className="studio-nav">
-        <Link href="/studio-guide">
+        <Link href="/podcast-studio-guide">
           <Button variant="outline">
             <ChevronLeft />
-            Studio Guide
+            Podcast Studio Guide
           </Button>
         </Link>
-        <Link href="/studio-guide/powering-video-systems">
+        <Link href="/podcast-studio-guide/powering-podcast-systems">
           <Button variant="outline">
-            Powering Video Systems <ChevronRight />
+            Powering Podcast Systems <ChevronRight />
           </Button>
         </Link>
       </div>

@@ -22,7 +22,7 @@ export default function Page() {
           procedures below prior to your session.
         </p>
         <div className="flex gap-4 pt-2">
-          <Link href="/podcast-studio-guide/arriving-at-the-studio">
+          <Link href="/podcast-studio-guide/arriving">
             <Button variant="outline">Start</Button>
           </Link>
         </div>

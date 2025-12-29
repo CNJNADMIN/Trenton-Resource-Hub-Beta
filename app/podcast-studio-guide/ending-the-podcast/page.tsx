@@ -23,7 +23,7 @@ export default function Page() {
       <section>
         <header className="space-y-4 mb-10">
           <h1 className="text-3xl lg:text-4xl font-semibold">
-            Prepping Podcasters
+            Ending the Podcast
           </h1>
           <Separator className="my-4" />
           <Breadcrumb>
@@ -37,7 +37,7 @@ export default function Page() {
                 <Slash />
               </BreadcrumbSeparator>
               <BreadcrumbItem>
-                <BreadcrumbLink href="#">Prepping Podcasters</BreadcrumbLink>
+                <BreadcrumbLink href="#"> Ending the Podcast</BreadcrumbLink>
               </BreadcrumbItem>
             </BreadcrumbList>
           </Breadcrumb>
@@ -45,60 +45,46 @@ export default function Page() {
       </section>
 
       <div className="studio-div">
-        <h2 className="text-2xl font-semibold">Microphone Tips</h2>
-
+        <VideoPlayer
+          videoUrl="https://res.cloudinary.com/dvjcjbbp7/video/upload/v1767042005/ending_c8vbpl.mp4"
+          muted
+          className="aspect-video rounded-xl shadow"
+        />
         <div className="prose-content">
+          <p className="text-muted-foreground ">
+            Once your shoot has concluded, you’ll need to do the following:
+          </p>
+          <br />
           <ol className="text-muted-foreground list-decimal pl-4 space-y-2">
-            <li>
-              Position microphones about 5 inches from each speaker’s mouth.
-            </li>
-            <li>Remind podcasters:</li>
-            <ul className="list-disc pl-6 space-y-1">
-              <li>No shouting</li>
-              <li>No whispering</li>
-              <li>Speak at room level</li>
-              <li>Don't tap or hit the table</li>
-              <li>Keep the mic close at all times</li>
-              <li>Don't turn your head away from the mic</li>
-              <li>Phones should be off or silent</li>
-            </ul>
+            <ol className="list-decimal pl-6 mt-2 space-y-1">
+              <li>Press the Stop button to finish and save your recording.</li>
+              <li>Wait one minute, then power off the Zoom L-8 mixer.</li>
+              <li>
+                Remove the SD card from the back of the mixer and insert it into
+                the SD recording deck.
+              </li>
+            </ol>
           </ol>
-        </div>
-      </div>
 
-      <hr className="my-6" />
+          <br />
 
-      <div className="studio-div">
-        <h2 className="text-2xl font-semibold">Headphone Check</h2>
-
-        <div className="prose-content">
-          <ol className="text-muted-foreground list-decimal pl-4 space-y-2">
-            <li>
-              All podcasters should wear headphones so they can hear themselves
-              and each other.
-            </li>
-            <li>
-              Confirm that each podcaster can hear everyone clearly in their
-              headphones.
-            </li>
-            <li>
-              Confirm you can hear all podcasters through the headphones located
-              at the board.
-            </li>
-          </ol>
+          <p className="text-muted-foreground ">
+            WARNING: Do not power off the device until you have stopped the
+            recording. Failure to do so may corrupt your media files.
+          </p>
         </div>
       </div>
 
       <div className="studio-nav">
-        <Link href="/podcast-studio-guide/preparing-the-mixer">
+        <Link href="/podcast-studio-guide/starting-the-recording">
           <Button variant="outline">
             <ChevronLeft />
-            Preparing the Mixer
+            Starting the Recording
           </Button>
         </Link>
-        <Link href="/podcast-studio-guide/fader-adjustments">
+        <Link href="/podcast-studio-guide/closing-and-leaving-the-space">
           <Button variant="outline">
-            Fader Adjustments
+            Closing and Leaving the Space
             <ChevronRight />
           </Button>
         </Link>
